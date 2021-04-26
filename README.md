@@ -5,10 +5,10 @@
   <tbody>
       <tr>
         <td>
-          - 🔭 I’m currently working on <a href="https://www.frontendmentor.io/solutions">Frontend Mentor Challenges</a><br>
-          - 🌱 I’m currently learning **Next.js, Typescript, Angular, React** <br>
-          - 💬 Ask me about **jQuery, Bootstrap, Javascript** <br>
-          - 📫 How to reach me **felipe98_stz@hotmail.com** <br>
+          - 🔭 I’m currently working on: <a href="https://www.frontendmentor.io/solutions">Frontend Mentor Challenges</a><br>
+          - 🌱 I’m currently learning: <b>Next.js, Typescript, Angular, React</b> <br>
+          - 💬 Ask me about: <b>jQuery, Bootstrap, Javascript</b> <br>
+          - 📫 How to reach me: <b>felipe98_stz@hotmail.com</b> <br>
         </td>
         <td>
           <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipesd&show_icons=true&locale=en&layout=compact" alt="felipesd" /></p>
