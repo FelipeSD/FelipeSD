@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<table>
-  <tr>
-    <td>
-      - 🔭 I’m currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/solutions)
-
-      - 🌱 I’m currently learning **Next.js, Typescript, Angular, React**
-
-      - 💬 Ask me about **jQuery, Bootstrap, Javascript**
-
-      - 📫 How to reach me **felipe98_stz@hotmail.com**
-    </td>
-    <td>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipesd&show_icons=true&locale=en&layout=compact" alt="felipesd" /></p>
-    </td>
-  </tr>
+<table cellspacing="0" cellpadding="0">
+  <tbody>
+      <tr>
+        <td>
+          - 🔭 I’m currently working on <a href="https://www.frontendmentor.io/solutions">Frontend Mentor Challenges</a><br>
+          - 🌱 I’m currently learning **Next.js, Typescript, Angular, React** <br>
+          - 💬 Ask me about **jQuery, Bootstrap, Javascript** <br>
+          - 📫 How to reach me **felipe98_stz@hotmail.com** <br>
+        </td>
+        <td>
+          <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipesd&show_icons=true&locale=en&layout=compact" alt="felipesd" /></p>
+        </td>
+      </tr>
+    </tbody>
 </table>
 
 
