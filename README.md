@@ -11,7 +11,7 @@
           - 📫 How to reach me: <b>felipe98_stz@hotmail.com</b> <br>
         </td>
         <td>
-          <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipesd&show_icons=true&locale=en&layout=compact" alt="felipesd" /></p>
+          <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipesd&show_icons=true&locale=en&layout=compact&hide_border=true" alt="felipesd" /></p>
         </td>
       </tr>
     </tbody>
