@@ -5,7 +5,7 @@
   <tbody>
       <tr>
         <td>
-          - 🔭 I’m currently working on: <a href="https://www.frontendmentor.io/solutions">Frontend Mentor Challenges</a><br>
+          - 🔭 I’m currently working on: <a href="https://www.frontendmentor.io/solutions" target="_blank">Frontend Mentor Challenges</a><br>
           - 🌱 I’m currently learning: <b>Next.js, Typescript, Angular, React</b> <br>
           - 💬 Ask me about: <b>jQuery, Bootstrap, Javascript</b> <br>
           - 📫 How to reach me: <b>felipe98_stz@hotmail.com</b> <br>
