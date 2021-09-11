@@ -5,12 +5,6 @@
 </a><br>
 
 
-🔭 I’m currently working on: <a href="https://www.frontendmentor.io/solutions" target="_blank">Frontend Mentor Challenges</a><br>
-🌱 I’m currently learning: <b>Next.js, Typescript, Angular, React</b> <br>
-💬 Ask me about: <b>jQuery, Bootstrap, Javascript</b> <br>
-
-
-
 <img align="left" 
      src="https://github-readme-stats.vercel.app/api/top-langs?username=felipesd&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=ffffff" 
      alt="felipesd" />
